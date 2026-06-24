@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+outputs/
+dataset/
+node_modules/
+*.log
+server.out.log
+server.err.log
+test_output.txt
+package-lock.json
+diag.py
+diag2.py
+index.js
+scripts.json

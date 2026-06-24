@@ -1,4 +1,4 @@
-﻿"""
+"""
 Kolam Generator
 ===============
 Recreates a Kolam from extracted rules and generates new Kolam variations.
